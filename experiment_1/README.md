@@ -1,0 +1,3 @@
+Training checkpoints for experiment 1 goes here...
+
+This folder contains the output MIDI from experiment 1.
